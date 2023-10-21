@@ -6,13 +6,13 @@ To use on windows run the following commands:
 
     pip install django djangorestframework django-cors-headers
 
-    cd 
+    cd frontend
 
     npm i
 
-    npm run 
+    npm run build
 
-    cd 
+    cd ..
 
     python manage.py runserver
 
