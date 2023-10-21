@@ -5,7 +5,6 @@ import axios from "axios"
 const useCRUD = (
   urls, Reset
 ) => {
-  console.log("enter")
   const [crudE, setCrudE] = useState(1);
   const [data, setData] = useState([]);
 
