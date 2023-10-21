@@ -18,4 +18,5 @@ To use on windows run the following commands:
 
 
 On Linux:
+
     ./run.sh
